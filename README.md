@@ -8,4 +8,6 @@ install.packages(c("shiny", "psych", "ggplot2", "corrplot", "gridExtra"))
 
 # Run the app
 library("shiny")
-runGitHub("EFA", "okanbulut") 
+runGitHub("EFA", "okanbulut")
+
+You can watch ![this short video][https://capture.dropbox.com/UooFfdoTHCV7a7m4] to learn how to use the app. 
